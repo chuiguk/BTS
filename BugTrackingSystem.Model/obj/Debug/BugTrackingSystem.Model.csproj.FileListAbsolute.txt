@@ -1,0 +1,17 @@
+C:\Users\erchi\Desktop\BugTrackingSystem-master\BugTrackingSystem\BugTrackingSystem.Model\obj\Debug\BugTrackingSystem.Model.csprojResolveAssemblyReference.cache
+C:\Users\erchi\Desktop\BugTrackingSystem-master\BugTrackingSystem\BugTrackingSystem.Model\bin\Debug\BugTrackingSystem.Model.dll
+C:\Users\erchi\Desktop\BugTrackingSystem-master\BugTrackingSystem\BugTrackingSystem.Model\bin\Debug\BugTrackingSystem.Model.pdb
+C:\Users\erchi\Desktop\BugTrackingSystem-master\BugTrackingSystem\BugTrackingSystem.Model\obj\Debug\BugTrackingSystem.Model.dll
+C:\Users\erchi\Desktop\BugTrackingSystem-master\BugTrackingSystem\BugTrackingSystem.Model\obj\Debug\BugTrackingSystem.Model.pdb
+C:\Users\erchi\Desktop\BugTrackingSystem\BugTrackingSystem.Model\obj\Debug\BugTrackingSystem.Model.csprojResolveAssemblyReference.cache
+C:\Users\erchi\Desktop\BugTrackingSystem\BugTrackingSystem.Model\obj\Debug\BugTrackingSystem.Model.dll
+C:\Users\erchi\Desktop\BugTrackingSystem\BugTrackingSystem.Model\obj\Debug\BugTrackingSystem.Model.pdb
+C:\Users\erchi\Desktop\BugTrackingSystem\BugTrackingSystem.Model\bin\Debug\BugTrackingSystem.Model.dll.config
+C:\Users\erchi\Desktop\BugTrackingSystem\BugTrackingSystem.Model\bin\Debug\BugTrackingSystem.Model.dll
+C:\Users\erchi\Desktop\BugTrackingSystem\BugTrackingSystem.Model\bin\Debug\BugTrackingSystem.Model.pdb
+C:\Users\erchi\Desktop\BugTrackingSystem\BugTrackingSystem.Model\bin\Debug\BugTrackingSystem.Data.dll
+C:\Users\erchi\Desktop\BugTrackingSystem\BugTrackingSystem.Model\bin\Debug\EntityFramework.dll
+C:\Users\erchi\Desktop\BugTrackingSystem\BugTrackingSystem.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erchi\Desktop\BugTrackingSystem\BugTrackingSystem.Model\bin\Debug\BugTrackingSystem.Data.pdb
+C:\Users\erchi\Desktop\BugTrackingSystem\BugTrackingSystem.Model\bin\Debug\EntityFramework.xml
+C:\Users\erchi\Desktop\BugTrackingSystem\BugTrackingSystem.Model\bin\Debug\EntityFramework.SqlServer.xml
